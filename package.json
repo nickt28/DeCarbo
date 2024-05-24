@@ -1,0 +1,15 @@
+{
+  "name": "decarbo",
+  "version": "1.0.0",
+  "description": "Find out what can you do to reduce your carbon emission.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
